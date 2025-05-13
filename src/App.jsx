@@ -44,10 +44,10 @@ export default function App() {
               className="text-primary"
             >
               {createElement(getIcon('CheckSquare'), { size: 28 })}
-            <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-              TaskFlow
-            </h1>
-          </div>
+              <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+                TaskFlow
+              </h1>
+            </motion.div>
           </motion.div>
           
           <motion.button

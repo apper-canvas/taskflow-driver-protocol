@@ -47,6 +47,7 @@ export default function App() {
             <h1 className="text-xl md:text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               TaskFlow
             </h1>
+          </div>
           </motion.div>
           
           <motion.button
